@@ -1,0 +1,23 @@
+_repo: Travels-Into-Bokhara-Volume-2-of-3_64247
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnes, Alexander, Sir
+    alias: Burnes, Bokhara
+    birthdate: 1805
+    deathdate: 1841
+    gutenberg_agent_id: '49762'
+    url: http://www.gutenberg.org/2009/agents/49762
+description: ''
+gutenberg_issued: '2021-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Travels Into Bokhara (Volume 2 of 3)
+url: http://www.gutenberg.org/ebooks/64247
