@@ -1,5 +1,8 @@
 _repo: Travels-Into-Bokhara-Volume-2-of-3_64247
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64247-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnes, Alexander, Sir
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49762'
     url: http://www.gutenberg.org/2009/agents/49762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64247#Travels-Into-Bokhara-Volume-2-of-3
 gutenberg_issued: '2021-01-09'
 gutenberg_type: Text
 identifiers:
